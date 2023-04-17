@@ -1,0 +1,28 @@
+h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #666;
+  }
+  
+  button {
+    display: inline;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  
+  }
+
+  /* .buttons {
+    width: 200px;
+    margin: 0 auto;
+    display: inline;} */
